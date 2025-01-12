@@ -33,7 +33,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 #### Project 1: Network Penetration Testing Lab
 - Description: Set up a home lab for practicing network penetration testing techniques.
 - Technologies Used:  Metasploit, Nmap, Nessus, Metasploitable 2
-- GitHub Repository: [https://github.com/Yuvraj-Gurung/network-penetration-testing-lab]
+- GitHub Repository: https://github.com/Yuvraj-Gurung/network-penetration-testing-lab
 
 #### Project 2: Active Directory Penetration Testing
 - Description: Configured an Active Directory (AD) environment to identify and exploit potential vulnerabilities.
