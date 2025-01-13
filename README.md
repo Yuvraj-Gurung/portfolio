@@ -33,27 +33,27 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 #### Project 1: Network Penetration Testing Lab
 - Description: Set up a home lab for practicing network penetration testing techniques.
 - Technologies Used:  Metasploit, Nmap, Nessus, Metasploitable 2
-- GitHub Repository: [View Project](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
 
 #### Project 2: Active Directory Penetration Testing
 - Description: Configured an Active Directory (AD) environment to identify and exploit potential vulnerabilities.
 - Technologies Used: Kali Linux, Bloodhound, Windows Server 2022, Windows 10
-- GitHub Repository: [View Project](https://github.com/Yuvraj-Gurung/active-directory-penetration-testing)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/active-directory-penetration-testing)
 
 #### Project 3: Red Teaming Lab
 - Description: Simulated offensive and defensive tactics for adversary emulation and conducted real-world red team activities on a virtualized homelab environment.
 - Technologies Used: Caldera, Havoc C2, Covenant, Atomic Red Team, MITRE ATT&CK
-- GitHub Repository: [View Project](https://github.com/Yuvraj-Gurung/red-teaming-lab)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/red-teaming-lab)
 
 #### Project 4: Web Application Security
 - Description: Performed a penetration test on a web application to uncover security weaknesses.
 - Technologies Used: Burp Suite, OWASP ZAP, SQLmap
-- GitHub Repository: [View Project](https://github.com/Yuvraj-Gurung/web-application-security)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/web-application-security)
 
 #### Project 5: Windows Buffer Overflow - Exploit Development
 - Description: Buffer overflow exploitation on Windows.
 - Technologies Used: Kali Linux, Metasploit, Windows 10, Immunity Debugger, Python
-- GitHub Repository: [View Project](https://github.com/Yuvraj-Gurung/windows-buffer-overflow)
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/windows-buffer-overflow)
 
 ### 🎓 Certifications
 - Ethical Hacking Essentials (EHE)
