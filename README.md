@@ -42,7 +42,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/active-directory-penetration-testing)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=6MOEF9IlXSA)*
 
-#### Project 3: Red Teaming Lab
+#### Project 3: Red | Blue Teaming Lab
 - Description: Simulated offensive and defensive tactics for adversary emulation and conducted real-world red team activities on a virtualized homelab environment.
 - Technologies Used: Caldera, Havoc C2, Covenant, Atomic Red Team, MITRE ATT&CK
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/red-teaming-lab)
@@ -52,6 +52,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 - Description: Performed a penetration test on a web application to uncover security weaknesses.
 - Technologies Used: Burp Suite, OWASP ZAP, SQLmap
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/web-application-security)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=UYy5JSRaF-w)*
 
 #### Project 5: Windows Buffer Overflow - Exploit Development
 - Description: Buffer overflow exploitation on Windows.
