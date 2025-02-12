@@ -46,6 +46,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 - Description: Simulated offensive and defensive tactics for adversary emulation and conducted real-world red team activities on a virtualized homelab environment.
 - Technologies Used: Caldera, Havoc C2, Covenant, Atomic Red Team, MITRE ATT&CK
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/red-teaming-lab)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=I1FTlKrEO5I)*
 
 #### Project 4: Web Application Security
 - Description: Performed a penetration test on a web application to uncover security weaknesses.
