@@ -54,11 +54,17 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/web-application-security)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=UYy5JSRaF-w)*
 
-#### Project 5: Windows Buffer Overflow - Exploit Development
+#### Project 5: Windows Buffer Overflow | Exploit Development
 - Description: Buffer overflow exploitation on Windows.
 - Technologies Used: Kali Linux, Metasploit, Windows 10, Immunity Debugger, Python
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/windows-buffer-overflow)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=Sa1oIWCI7uM)*
+
+#### Project 6: Wireshark | Pcap Traffic Analysis
+- Description: Investigate suspicious network activity in an Active Directory (AD) environment.
+- Technologies Used: Wireshark, Pcap File
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/wireshark-pcap-traffic-analysis)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=ZnNsU5jPaTs)*
 
 ### 🎓 Certifications
 - Ethical Hacking Essentials (EHE)
