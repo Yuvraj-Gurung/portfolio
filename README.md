@@ -66,6 +66,12 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/wireshark-pcap-traffic-analysis)
 - *[Watch the Live Demo](https://www.youtube.com/watch?v=ZnNsU5jPaTs)*
 
+#### Project 7: Snort | Intrusion Detection using Snort IDS
+- Description: Set up and Configured Snort IDS to detect network intrusions.
+- Technologies Used: Snort v2.9, Parrot Security OS, Windows 10
+- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/snort-intrusion-detection-system)
+- *[Watch the Live Demo](https://www.youtube.com/watch?v=6uF0e1g7Vc4)*
+
 ### 🎓 Certifications
 - Ethical Hacking Essentials (EHE)
 - CompTIA Security+ (SY0-601)
