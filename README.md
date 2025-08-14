@@ -37,7 +37,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 ![project 1](projects/image1.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/network-penetration-testing-lab)
-- *[Watch the Live Demo](https://www.youtube.com/watch?v=OvzdCgv_mnM)*
+- *[Watch the Live Demo](https://drive.google.com/file/d/14COmUOpalM-GN-HlMeS6UzyAWiBQ4-Fq/view?usp=sharing)*
 
 #### Project 2: Active Directory Penetration Testing
 - Description: Configured an Active Directory (AD) environment to identify and exploit potential vulnerabilities.
@@ -46,7 +46,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 ![project 2](projects/image2.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/active-directory-penetration-testing)
-- *[Watch the Live Demo](https://www.youtube.com/watch?v=6MOEF9IlXSA)*
+- *[Watch the Live Demo](https://drive.google.com/file/d/1DFy4RYO9kcsL3NeXz7vcOksCJvT6R91K/view?usp=sharing)*
 
 #### Project 3: Red | Blue Teaming Lab
 - Description: Simulated offensive and defensive tactics for adversary emulation and conducted real-world red team activities on a virtualized homelab environment.
@@ -55,7 +55,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 ![project 1](projects/image3.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/red-teaming-lab)
-- *[Watch the Live Demo](https://www.youtube.com/watch?v=I1FTlKrEO5I)*
+- *[Watch the Live Demo](https://drive.google.com/file/d/1C0vhyb5vzITJ8shrfBA_OdiJ2hXbMQ3I/view?usp=sharing)*
 
 #### Project 4: Web Application Security
 - Description: Performed a penetration test on a web application to uncover security weaknesses.
@@ -64,7 +64,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 ![project 1](projects/image4.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/web-application-security)
-- *[Watch the Live Demo](https://www.youtube.com/watch?v=UYy5JSRaF-w)*
+- *[Watch the Live Demo](https://drive.google.com/file/d/11u7w-4QqMIAzdKep5S4RQQu3BUDYAjId/view?usp=sharing)*
 
 #### Project 5: Windows Buffer Overflow | Exploit Development
 - Description: Buffer overflow exploitation on Windows.
@@ -73,7 +73,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 ![project 1](projects/image5.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/windows-buffer-overflow)
-- *[Watch the Live Demo](https://www.youtube.com/watch?v=Sa1oIWCI7uM)*
+- *[Watch the Live Demo](https://drive.google.com/file/d/148wmvsikdkQl84pkY3uX0hgZ6x-SRNt1/view?usp=sharing)*
 
 #### Project 6: Wireshark | Pcap Traffic Analysis
 - Description: Investigate suspicious network activity in an Active Directory (AD) environment.
@@ -82,16 +82,7 @@ Here are a few projects that showcase my skills and experience in cybersecurity:
 ![project 1](projects/image6.png)
 
 - GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/wireshark-pcap-traffic-analysis)
-- *[Watch the Live Demo](https://www.youtube.com/watch?v=ZnNsU5jPaTs)*
-
-#### Project 7: Snort | Intrusion Detection using Snort IDS
-- Description: Set up and Configured Snort IDS to detect network intrusions.
-- Technologies Used: Snort v2.9, Parrot Security OS, Windows 10
-
-![project 1](projects/image7.png)
-
-- GitHub Repository: [_View Project_](https://github.com/Yuvraj-Gurung/snort-intrusion-detection-system)
-- *[Watch the Live Demo](https://www.youtube.com/watch?v=6uF0e1g7Vc4)*
+- *[Watch the Live Demo](https://drive.google.com/file/d/16mir1P8zmAmD2IaWFJhX-LFyclmtuatT/view?usp=sharing)*
 
 ### 🎓 Certifications
 - Ethical Hacking Essentials (EHE)
