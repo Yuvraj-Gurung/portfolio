@@ -1,6 +1,6 @@
-## Aspiring Cybersecurity Analyst
+## Entry-Level Cyber Security Professional
 
-Hello! I'm Yuvraj, a passionate and dedicated aspiring cybersecurity analyst with a strong foundation in network security, threat analysis, and ethical hacking. I am committed to safeguarding digital assets and ensuring the integrity, confidentiality, and availability of information.
+Hello! I'm Yuvraj, a passionate and dedicated entry-level Cyber Security Professional with a strong foundation in network security, threat analysis, and ethical hacking. I am committed to safeguarding digital assets and ensuring the integrity, confidentiality, and availability of information.
 
 ### 💼 Professional Background
 - 🔐 **Penetration Testing:** Conduct thorough security assessments to identify vulnerabilities in systems and networks.
